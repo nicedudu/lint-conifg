@@ -9,7 +9,11 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "eslint": "^7.23.0"
-  }
+  },
+  "gitHead": "3eb12769ef6bb5d2af90a6883b6f2681cf783ef1"
 }
